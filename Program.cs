@@ -12,7 +12,7 @@ namespace GitHubConnection
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Implementacja nowej funkcjonalności projektu");
-
+            Console.WriteLine("Nowa zmiana wprowadzona przez współpracownika");
         }
     }
 }
