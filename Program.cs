@@ -12,6 +12,8 @@ namespace GitHubConnection
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Implementacja nowej funkcjonalności projektu");
+            Console.WriteLine("Kolejne zmiany 1");
+            Console.WriteLine("kolejne zmiany 2");
 
         }
     }
