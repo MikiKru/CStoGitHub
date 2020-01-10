@@ -1,0 +1,5 @@
+# tutaj występuje szystko czego nie będziemy śledzić
+App.config
+*.csproj
+Properties/
+obj/
